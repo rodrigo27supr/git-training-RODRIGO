@@ -1,2 +1,2 @@
 Ahora estamos probando las ramas
-Probamos las ramas desde intellij
+Probamos las ramas desde intellij y probamos los conflictos
